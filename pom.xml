@@ -3,7 +3,7 @@
 
     <modelVersion>4.0.0</modelVersion>
     <groupId>jp.growthfield.hive</groupId>
-    <artifactId>udaf</artifactId>
+    <artifactId>listagg</artifactId>
     <version>1.0</version>
 
     <repositories>
